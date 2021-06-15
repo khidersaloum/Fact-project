@@ -1,0 +1,1 @@
+/*global documnet, alert, prompt, */ 
